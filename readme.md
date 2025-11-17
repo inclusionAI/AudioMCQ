@@ -16,8 +16,6 @@
 - **Paper**: [https://arxiv.org/abs/2509.21060](https://arxiv.org/abs/2509.21060)
 - **DCASE 2025 Challenge**: [1st Place Results](https://dcase.community/challenge2025/task-audio-question-answering-results)
 
----
-
 ## Overview
 
 AudioMCQ is a comprehensive audio multiple-choice question dataset with **571k samples** designed for post-training Large Audio Language Models (LALMs). The dataset features dual chain-of-thought annotations and audio-contribution filtering, achieving state-of-the-art results in audio understanding tasks.
@@ -29,8 +27,6 @@ AudioMCQ is a comprehensive audio multiple-choice question dataset with **571k s
 - **Audio-Contribution filtering**: Weak (54.8%) and strong (45.2%) splits
 - **DCASE 2025 Challenge**: 1st place winner
 - **Pre-trained models available**: Weak-to-Strong and Mixed-to-Strong paradigms
-
----
 
 ## Dataset Access
 
@@ -46,8 +42,6 @@ The Hugging Face repository contains:
 - Usage instructions
 - Model checkpoints
 
----
-
 ## Model Checkpoints
 
 We provide trained model checkpoints for two post-training paradigms:
@@ -57,13 +51,9 @@ We provide trained model checkpoints for two post-training paradigms:
 | **Weak-to-Strong** | [inclusionAI/AudioMCQ-Weak-To-Strong](https://huggingface.co/inclusionAI/AudioMCQ-Weak-To-Strong) |
 | **Mixed-to-Strong** | [inclusionAI/AudioMCQ-Mixed-To-Strong](https://huggingface.co/inclusionAI/AudioMCQ-Mixed-To-Strong) |
 
----
-
 ## Training Scripts
 
 All training code used for this project can be found in the `/training_scripts` directory.
-
----
 
 ## News
 
@@ -71,18 +61,13 @@ All training code used for this project can be found in the `/training_scripts` 
 - **[2025.09]** AudioMCQ dataset released with 571k samples
 - **[2025.07]** Achieved 1st place in DCASE 2025 Audio-Question-Answering challenge
 
----
-
 ## Contact
 
 - **Haolin He**: [harlandzzc@link.cuhk.edu.hk](mailto:harlandzzc@link.cuhk.edu.hk)
 
----
-
 ## Citation
 
 If you find AudioMCQ useful in your research, please cite:
-
 ```bibtex
 @article{he2025audiomcq,
   title={Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models},
@@ -92,13 +77,9 @@ If you find AudioMCQ useful in your research, please cite:
 }
 ```
 
----
-
 ## Acknowledgements
 
 We thank the organizers of DCASE 2025 and the research community for their valuable feedback and support.
-
----
 
 ## Related Resources
 
