@@ -31,7 +31,7 @@ AudioMCQ is a comprehensive audio multiple-choice question dataset with **571k s
 </div>
 
 <div align="center">
-  <img src="assets/examples.jpg" width="80%">
+  <img src="assets/examples.jpg" width="60%">
   <p><i>Randomly sampled questions from four distinct question types.</i></p>
 </div>
 
