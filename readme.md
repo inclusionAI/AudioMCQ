@@ -20,6 +20,16 @@
 
 AudioMCQ is a comprehensive audio multiple-choice question dataset with **571k samples** designed for post-training Large Audio Language Models (LALMs). The dataset features dual chain-of-thought annotations and audio-contribution filtering, achieving state-of-the-art results in audio understanding tasks.
 
+<div align="center">
+  <img src="assets/statistics.jpg" width="80%">
+  <p><i>Distribution analysis of AudioMCQ dataset.</i></p>
+</div>
+
+<div align="center">
+  <img src="assets/examples.jpg" width="80%">
+  <p><i>Randomly sampled questions from four distinct question types.</i></p>
+</div>
+
 ### Key Highlights
 
 - **571k high-quality samples** across sound, music, speech, and temporal domains
