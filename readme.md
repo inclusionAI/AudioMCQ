@@ -10,33 +10,33 @@
 
 </div>
 
-## 📢 Quick Links
+## Quick Links
 
-- **📊 Dataset**: [https://huggingface.co/datasets/inclusionAI/AudioMCQ](https://huggingface.co/datasets/inclusionAI/AudioMCQ)
-- **📄 Paper**: [https://arxiv.org/abs/2509.21060](https://arxiv.org/abs/2509.21060)
-- **🏆 DCASE 2025 Challenge**: [1st Place Results](https://dcase.community/challenge2025/task-audio-question-answering-results)
+- **Dataset**: [https://huggingface.co/datasets/inclusionAI/AudioMCQ](https://huggingface.co/datasets/inclusionAI/AudioMCQ)
+- **Paper**: [https://arxiv.org/abs/2509.21060](https://arxiv.org/abs/2509.21060)
+- **DCASE 2025 Challenge**: [1st Place Results](https://dcase.community/challenge2025/task-audio-question-answering-results)
 
 ---
 
-## 🎯 Overview
+## Overview
 
 AudioMCQ is a comprehensive audio multiple-choice question dataset with **571k samples** designed for post-training Large Audio Language Models (LALMs). The dataset features dual chain-of-thought annotations and audio-contribution filtering, achieving state-of-the-art results in audio understanding tasks.
 
 ### Key Highlights
 
-- ✅ **571k high-quality samples** across sound, music, speech, and temporal domains
-- ✅ **Dual CoT annotations**: Structured and unstructured reasoning paths
-- ✅ **Audio-Contribution filtering**: Weak (54.8%) and strong (45.2%) splits
-- ✅ **DCASE 2025 Challenge**: 1st place winner
-- ✅ **Pre-trained models available**: Weak-to-Strong and Mixed-to-Strong paradigms
+- **571k high-quality samples** across sound, music, speech, and temporal domains
+- **Dual CoT annotations**: Structured and unstructured reasoning paths
+- **Audio-Contribution filtering**: Weak (54.8%) and strong (45.2%) splits
+- **DCASE 2025 Challenge**: 1st place winner
+- **Pre-trained models available**: Weak-to-Strong and Mixed-to-Strong paradigms
 
 ---
 
-## 📦 Dataset Access
+## Dataset Access
 
 **For complete dataset information, statistics, data format, and download instructions, please visit:**
 
-### 🤗 [Hugging Face Dataset Repository](https://huggingface.co/datasets/inclusionAI/AudioMCQ)
+### [Hugging Face Dataset Repository](https://huggingface.co/datasets/inclusionAI/AudioMCQ)
 
 The Hugging Face repository contains:
 - Full dataset documentation
@@ -48,7 +48,7 @@ The Hugging Face repository contains:
 
 ---
 
-## 🚀 Model Checkpoints
+## Model Checkpoints
 
 We provide trained model checkpoints for two post-training paradigms:
 
@@ -59,21 +59,27 @@ We provide trained model checkpoints for two post-training paradigms:
 
 ---
 
-## 📰 News
+## Training Scripts
 
-- **[2025.09]** Paper published on arXiv
-- **[2025.09]** AudioMCQ dataset released with 571k samples
-- **[2025.07]** 🏆 Achieved 1st place in DCASE 2025 Audio-Question-Answering challenge
+All training code used for this project can be found in the `/training_scripts` directory.
 
 ---
 
-## 📧 Contact
+## News
+
+- **[2025.09]** Paper published on arXiv
+- **[2025.09]** AudioMCQ dataset released with 571k samples
+- **[2025.07]** Achieved 1st place in DCASE 2025 Audio-Question-Answering challenge
+
+---
+
+## Contact
 
 - **Haolin He**: [harlandzzc@link.cuhk.edu.hk](mailto:harlandzzc@link.cuhk.edu.hk)
 
 ---
 
-## 📖 Citation
+## Citation
 
 If you find AudioMCQ useful in your research, please cite:
 
@@ -88,13 +94,13 @@ If you find AudioMCQ useful in your research, please cite:
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 We thank the organizers of DCASE 2025 and the research community for their valuable feedback and support.
 
 ---
 
-## 🔗 Related Resources
+## Related Resources
 
 - [Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni)
 - [DCASE 2025 Challenge](http://dcase.community/challenge2025/)
