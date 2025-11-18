@@ -81,7 +81,6 @@ All training code used for this project can be found in the `/training_scripts` 
 
 ## Contributors
 
-
 <a href="https://github.com/inclusionAI/AudioMCQ/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inclusionAI/AudioMCQ" />
 </a>
