@@ -79,6 +79,13 @@ All training code used for this project can be found in the `/training_scripts` 
 
 - **Haolin He**: [harlandzzc@link.cuhk.edu.hk](mailto:harlandzzc@link.cuhk.edu.hk)
 
+## Contributors
+
+
+<a href="https://github.com/inclusionAI/AudioMCQ/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=inclusionAI/AudioMCQ" />
+</a>
+
 ## Citation
 
 If you find AudioMCQ useful in your research, please cite:
