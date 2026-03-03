@@ -1,4 +1,4 @@
-# AudioMCQ: Audio Multiple-Choice Question Dataset
+# [ICLR 2026] AudioMCQ: Audio Multiple-Choice Question Dataset
 
 **Official repository for the paper "Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models"**
 
@@ -89,11 +89,11 @@ All training code used for this project can be found in the `/training_scripts` 
 
 If you find AudioMCQ useful in your research, please cite:
 ```bibtex
-@article{he2025audiomcq,
+@inproceedings{he2025audiomcq,
   title={Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models},
   author={He, Haolin and others},
-  journal={arXiv preprint arXiv:2509.21060},
-  year={2025}
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2026}
 }
 ```
 
