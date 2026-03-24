@@ -10,6 +10,13 @@
 
 </div>
 
+## News
+
+- **[2026.02]** Paper accepted by ICLR 2026.
+- **[2025.09]** Paper published on arXiv.
+- **[2025.09]** AudioMCQ dataset released with 571k samples!
+- **[2025.07]** We achieve **[1st place](https://dcase.community/challenge2025/task-audio-question-answering-results)** in the DCASE 2025 Audio-Question-Answering challenge by using AudioMCQ!
+
 ## Quick Links
 
 - **Dataset**: [https://huggingface.co/datasets/inclusionAI/AudioMCQ](https://huggingface.co/datasets/inclusionAI/AudioMCQ)
@@ -68,12 +75,6 @@ We provide trained model checkpoints for two post-training paradigms:
 ## Training Scripts
 
 All training code used for this project can be found in the `/training_scripts` directory.
-
-## News
-
-- **[2025.09]** Paper published on arXiv
-- **[2025.09]** AudioMCQ dataset released with 571k samples
-- **[2025.07]** Achieved 1st place in DCASE 2025 Audio-Question-Answering challenge
 
 ## Contact
 
