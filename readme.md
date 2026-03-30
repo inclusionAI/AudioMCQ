@@ -5,13 +5,16 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2509.21060-b31b1b.svg)](https://arxiv.org/abs/2509.21060)
-[![Dataset](https://img.shields.io/badge/🤗%20Dataset-AudioMCQ-yellow)](https://huggingface.co/datasets/inclusionAI/AudioMCQ)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/inclusionAI/AudioMCQ)
 [![DCASE 2025](https://img.shields.io/badge/DCASE%202025-1st%20Place-gold.svg)](https://dcase.community/challenge2025/task-audio-question-answering-results)
+[![DCASE 2026](https://img.shields.io/badge/DCASE%202026-Task%205%20Training%20Set-red.svg)](https://dcase.community/challenge2026/index#task5)
+[![Gemini CoT Subset](https://img.shields.io/badge/Dataset-StrongAC--GeminiCoT-orange.svg)](#-audiomcq-strongac-geminicot-dcase-2026-task-5)
 
 </div>
 
 ## News
 
+- **[2026.03]** 🔥 We released **[AudioMCQ-StrongAC-GeminiCoT](#-audiomcq-strongac-geminicot-dcase-2026-task-5)**, a highly curated subset featuring native CoT reasoning from Gemini 3.1 Pro! It proudly serves as the official training set for **[DCASE 2026 Challenge Task 5](https://dcase.community/challenge2026/index#task5)**. 
 - **[2026.02]** Paper accepted by ICLR 2026.
 - **[2025.09]** Paper published on arXiv.
 - **[2025.09]** AudioMCQ dataset released with 571k samples!
