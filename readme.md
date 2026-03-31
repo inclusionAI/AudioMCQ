@@ -5,8 +5,8 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2509.21060-b31b1b.svg)](https://arxiv.org/abs/2509.21060)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/inclusionAI/AudioMCQ)
 [![DCASE 2025](https://img.shields.io/badge/DCASE%202025-1st%20Place-gold.svg)](https://dcase.community/challenge2025/task-audio-question-answering-results)
+[![Base Dataset](https://img.shields.io/badge/Base%20Dataset-AudioMCQ-yellow.svg)](https://huggingface.co/datasets/inclusionAI/AudioMCQ)
 [![Gemini CoT Subset](https://img.shields.io/badge/Subset-StrongAC--GeminiCoT-orange.svg)](https://huggingface.co/datasets/Harland/AudioMCQ-StrongAC-GeminiCoT)
 
 </div>
