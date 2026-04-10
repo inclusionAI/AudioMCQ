@@ -92,11 +92,11 @@ All training code used for this project can be found in the `/training_scripts` 
 
 If you find AudioMCQ useful in your research, please cite:
 ```bibtex
-@inproceedings{he2025audiomcq,
+@article{he2025measuring,
   title={Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models},
-  author={He, Haolin and others},
-  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
-  year={2026}
+  author={He, Haolin and Du, Xingjian and Sun, Renhe and Dai, Zheqi and Xiao, Yujia and Yang, Mingru and Zhou, Jiayi and Li, Xiquan and Liu, Zhengxi and Liang, Zining and others},
+  journal={arXiv preprint arXiv:2509.21060},
+  year={2025}
 }
 ```
 
