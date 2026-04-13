@@ -12,7 +12,7 @@
 </div>
 
 ## News
-- **[2026.04] Update on MMSU Metric:** Based on community feedback, we identified a flaw in our evaluation script that **artificially inflated MMSU scores of our released models** by ignoring sequence order. We sincerely apologize for this oversight. Please note that the **MMAR and MMAU metrics remain completely unaffected**. When comparing against our work, we recommend reporting the MMAR/MMAU results or re-evaluating our published checkpoints using your own exact-match algorithm. We deeply apologize for any inconvenience this may have caused to the research community.
+- **[2026.04] Update on MMSU Metric of released models:** Based on community feedback, we identified a flaw in our evaluation script that **artificially inflated MMSU scores of our released models** by ignoring sequence order. We sincerely apologize for this oversight. Please note that the **MMAR and MMAU metrics remain completely unaffected**. When comparing against our work, we recommend reporting the MMAR/MMAU results or re-evaluating our published checkpoints using your own exact-match algorithm. We deeply apologize for any inconvenience this may have caused to the research community.
 - **[2026.03]** 🔥 We released **[AudioMCQ-StrongAC-GeminiCoT](#-audiomcq-strongac-geminicot-dcase-2026-task-5)**, a highly curated subset featuring native CoT reasoning from Gemini 3.1 Pro! It proudly serves as the official training set for **[DCASE 2026 Challenge Task 5](https://dcase.community/challenge2026/index#task5)**. 
 - **[2026.02]** Paper accepted by ICLR 2026.
 - **[2025.09]** Paper published on arXiv.
