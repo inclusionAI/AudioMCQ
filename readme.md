@@ -13,7 +13,7 @@
 
 ## News
 - **[2026.04] Update on MMSU Metric of released models:** Based on community feedback, we identified a flaw in our evaluation script that **artificially inflated the MMSU scores of our released models** by ignoring sequence order. We sincerely apologize for this oversight. Crucially, please note that our **AudioMCQ training data, the paper's conclusions regarding audio-contribution, and the MMAR/MMAU metrics remain completely unaffected.** When comparing against our work, we recommend reporting the MMAR/MMAU results or re-evaluating our published checkpoints using your own exact-match algorithm. We **deeply apologize for any inconvenience** this may have caused to the research community.
-- **[2026.03]** 🔥 We released **[AudioMCQ-StrongAC-GeminiCoT](#-audiomcq-strongac-geminicot-dcase-2026-task-5)**, a highly curated subset featuring native CoT reasoning from Gemini 3.1 Pro! It proudly serves as the official training set for **[DCASE 2026 Challenge Task 5](https://dcase.community/challenge2026/index#task5)**. 
+- **[2026.03]** 🔥 We released **[AudioMCQ-StrongAC-GeminiCoT](https://huggingface.co/datasets/Harland/AudioMCQ-StrongAC-GeminiCoT)**, a highly curated subset featuring native CoT reasoning from Gemini 3.1 Pro! It proudly serves as the official training set for **[DCASE 2026 Challenge Task 5](https://dcase.community/challenge2026/index#task5)**. 
 - **[2026.02]** Paper accepted by ICLR 2026.
 - **[2025.09]** Paper published on arXiv.
 - **[2025.09]** AudioMCQ dataset released with 571k samples!
